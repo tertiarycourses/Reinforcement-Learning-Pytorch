@@ -1,4 +1,4 @@
-# Python GUI Development with Tkinter Training
+# Deep Reinforcement Learning with Pytorch
 ## by [Tertiary  Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Deep Reinforcement Learning with Pytorch](https://www.tertiarycourses.com.sg/deep-reinforcement-with-pytorch.html) course. 
